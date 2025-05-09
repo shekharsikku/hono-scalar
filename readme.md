@@ -100,10 +100,6 @@ Hono-Scalar provides OpenAPI documentation:
 
 ## License
 
-## This project is licensed under the `MIT` License.
-
-## License
-
 This project is licensed under the `MIT` License.
 
 ### **Developed by [shekharsikku](https://linkedin.com/in/shekharsikku)**
